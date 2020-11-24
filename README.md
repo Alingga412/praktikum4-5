@@ -18,14 +18,14 @@
 
 1. Gambar 1
 
-![1.png](/gambar/1.png)
+![1.png](/gamabar/1.png)
 
 2. Gambar 2
 
-![2.png](/gambar/2.png)
+![2.png](/gamabar/2.png)
 
 
 3. Hasil dari Output seperti gambar di bawah ini
 
-![3.png](/gambar/3.png) 
+![3.png](/gamabar/3.png) 
 
