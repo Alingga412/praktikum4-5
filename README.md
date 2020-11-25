@@ -105,4 +105,3 @@ Maka hasil output seperti di gambar ini
 
 ![3.png](/gambar2/3.png)
 
-
