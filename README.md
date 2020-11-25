@@ -97,7 +97,7 @@
 
 * gambar 2
 
-![2.png](/gambar2/2.png]
+![2.png](/gambar2/2.png)
 
 * gambar 3
 
